@@ -1,0 +1,9 @@
+https://prnt.sc/rkKB2xIJW0OC
+
+Introducing an enhanced feature for "Scheduled Jobs" to help you monitor Apex Scheduled Jobs more efficiently. With this enhancement, you can now:
+
+1) Monitor Apex Scheduled Jobs in real-time by tracking the percentage of scheduled jobs used.
+
+2) Schedule Apex jobs directly from the All Scheduled Jobs page.
+
+3) Manage jobs scheduled using a cron expression.
